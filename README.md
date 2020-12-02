@@ -16,9 +16,9 @@ Main goal was to code moving platforms in all directions (X,Y,Z) with C++
 
 C++ classes:
 
-*[MovingPlatform Z - > Up and Down Value, Speed Value]
-*[MovingPlatform Y - > MaxY and MinY, Speed Value]
-*[MovingPlatform X - > MaxX and MinX, Speed Value ]
+* [MovingPlatform Z - > Up and Down Value, Speed Value]
+* [MovingPlatform Y - > MaxY and MinY, Speed Value]
+* [MovingPlatform X - > MaxX and MinX, Speed Value ]
 
 With Values C++ Exposed to BP it's easy to place platforms in the world. 
 
