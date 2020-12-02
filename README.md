@@ -10,7 +10,7 @@ Moving platforms mechanic Only From C++ In Unreal Engine 4
 
 
 <!-- Characteristics and purpose -->
-## Characteristics and purpose of the project
+## Characteristics and purpose
 
 Main goal was to code moving platforms in all directions (X,Y,Z) with C++
 
@@ -22,7 +22,7 @@ C++ classes:
 
 With Values C++ Exposed to BP it's easy to place platforms in the world. 
 
-#Video:
+## Video:
 
 https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
 
