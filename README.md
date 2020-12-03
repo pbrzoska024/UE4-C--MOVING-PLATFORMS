@@ -20,11 +20,16 @@ C++ classes:
 * [MovingPlatform Y - > MaxY and MinY, Speed Value]
 * [MovingPlatform X - > MaxX and MinX, Speed Value ]
 
+![Y](https://user-images.githubusercontent.com/53401206/101026846-af198e00-3577-11eb-86a1-de8be41274cd.png)
+![X](https://user-images.githubusercontent.com/53401206/101026851-afb22480-3577-11eb-8810-8152afec288d.png)
+![Z](https://user-images.githubusercontent.com/53401206/101026855-b04abb00-3577-11eb-8e4d-f23f39a80ec2.png)
+
+
 With Values C++ Exposed to BP it's easy to place platforms in the world. 
 
 ## Video:
 
-https://www.youtube.com/watch?v=20Qj2slPjMg&feature=youtu.be
+https://www.youtube.com/watch?v=rcIyJPES5oI&feature=youtu.be&ab_channel=PBrzoska
 
 
 
